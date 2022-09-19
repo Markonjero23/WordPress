@@ -1,0 +1,33 @@
+2022-09-19 11:40:34
+<b>ewww_image_optimizer_init()</b>
+<b>EIO_Base::content_url()</b>
+upload_url: https://mnovak.wppsbootcamp.com/projekat1/wp-content/uploads/
+<b>EIO_Base::__construct()</b>
+plugin (resource) content_url: https://mnovak.wppsbootcamp.com/projekat1/wp-content/ewww/
+plugin (resource) content_dir: /home/mnovak/public_html/projekat1/wp-content/ewww/
+home url: https://mnovak.wppsbootcamp.com/projekat1/
+relative home url: //mnovak.wppsbootcamp.com/projekat1/
+home domain: mnovak.wppsbootcamp.com
+site/upload url: https://mnovak.wppsbootcamp.com/projekat1
+site/upload domain: mnovak.wppsbootcamp.com
+<b>EIO_Backup::__construct()</b>
+checking active plugins
+<b>ewww_image_optimizer_admin_init()</b>
+<b>EIO_Base::content_url()</b>
+upload_url: https://mnovak.wppsbootcamp.com/projekat1/wp-content/uploads/
+<b>EIO_Base::__construct()</b>
+plugin (resource) content_url: https://mnovak.wppsbootcamp.com/projekat1/wp-content/ewww/
+plugin (resource) content_dir: /home/mnovak/public_html/projekat1/wp-content/ewww/
+home url: https://mnovak.wppsbootcamp.com/projekat1/
+relative home url: //mnovak.wppsbootcamp.com/projekat1/
+home domain: mnovak.wppsbootcamp.com
+site/upload url: https://mnovak.wppsbootcamp.com/projekat1
+site/upload domain: mnovak.wppsbootcamp.com
+<b>ewww_image_optimizer_cloud_init()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>ewww_image_optimizer_exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>ewww_image_optimizer_ajax_compat_check()</b>
+doing wp_ewwwio_test_optimize
+<b>EWWWIO_Tracking::schedule_send()</b>
+<b>EWWWIO_Test_Optimize_Handler::handle()</b>
